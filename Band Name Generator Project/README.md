@@ -13,5 +13,4 @@ Variable storage
 String concatination
 
 
-
 Basic program flow It serves as an introductory exercise to build confidence in writing interactive Python programs and understanding how user data can be processed to produce dynamic outputs.
