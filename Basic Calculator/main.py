@@ -30,5 +30,3 @@ def calculator():
             print("\n" * 100)
             calculator()
 calculator()
-
-
