@@ -1,6 +1,6 @@
 ## 🃏 Blackjack Game (Python CLI)
 
-This project is a command-line implementation of the classic Blackjack card game using Python. The game allows a user to play against a computer dealer by drawing cards and trying to reach a score as close to 21 as possible without exceeding it. At the start, both the user and the computer are dealt two cards. The user can choose to draw additional cards or stop, while the computer follows a predefined rule of drawing cards until its total reaches at least 17. The program automatically calculates scores, adjusts Ace values (11 to 1 when needed), and determines the final winner based on standard Blackjack rules.
+This project is a command-line implementation of the classic Blackjack card game using Python. The game allows a user to play against a computer dealer by drawing cards and trying to reach a score as close to 21 as possible without exceeding it. At the start, both the user and the computer are dealt two cards. The user can choose to draw additional cards or stop, while the computer follows a predefined rule of drawing cards until its total reaches at least 17. The program automatically calculates scores, adjusts Ace values (11 to 1 when needed), and determines the final winner based on standard Blackjack rules. These type of projects are helping me to build my coding skills in Python through which i can easly edapt real world problem solving situations.
 
 ## 🚀 Features
 - Interactive command-line gameplay  
